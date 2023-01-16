@@ -16,7 +16,7 @@ Grand Total	$282.48
 
 '''
 
-Order of Filters(right to left):
+Order of Filters(right to left)[My water from the street is on the right side of the loop]:
 1. Carbon .5 micron [link](https://www.discountfilters.com/sediment-carbon-water-filters/clearchoice-ccs020/p175727/)
 <details><summary>Filter Specifications</summary>
   Specifications
@@ -49,7 +49,7 @@ x2 1 x 3/4 reducing ball valve
 
 
 Finished product so far:
-
+[The housing is level...need to retake the picture..]
 
 ![IMG_8914](https://user-images.githubusercontent.com/90968/212616825-54d917bc-5741-4545-803d-b37133850e0e.JPG)
 
