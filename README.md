@@ -35,3 +35,9 @@ x2 1 x 3/4 reducing ball valve
 Finished product so far:
 
 
+![IMG_8914](https://user-images.githubusercontent.com/90968/212616825-54d917bc-5741-4545-803d-b37133850e0e.JPG)
+
+Rough spreadsheet with materials/price
+![water-project-spreadsheet](https://user-images.githubusercontent.com/90968/212617526-e69c03b4-8c5b-4757-a90f-6286fa4140dc.png)
+s
+
