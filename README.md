@@ -41,3 +41,9 @@ Rough spreadsheet with materials/price
 ![water-project-spreadsheet](https://user-images.githubusercontent.com/90968/212617526-e69c03b4-8c5b-4757-a90f-6286fa4140dc.png)
 s
 
+
+## SharkBite Connections
+- I went with SharkBite connections since the cost wasn't much more(if you include the need for a crimp tool/crimp ring removal
+  - It'd be nice to be able to repair leaks if one were to happen.  
+- I have a new build house so I don't expect much more plumbing needs
+- These were ridiculously easy to install and uninstall/redo. 
