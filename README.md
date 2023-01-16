@@ -55,7 +55,7 @@ Grand Total	$282.48
 '''
 
 **Order of Filters**(right to left)[My water from the street is on the right side of the loop]:
-1. Carbon .5 micron [link](https://www.discountfilters.com/sediment-carbon-water-filters/clearchoice-ccs020/p175727/)
+1. Carbon micron [link](https://www.discountfilters.com/sediment-carbon-water-filters/clearchoice-ccs020/p175727/)
 <details><summary>Filter Specifications</summary>
   Specifications
 Capacity:
@@ -73,7 +73,7 @@ Reduction Claims:
 Chlorine Taste, Odor, Sediment
 </details>
 
-2. Sediment [link](https://www.amazon.com/gp/aw/d/B0030ZD7MU?psc=1&ref=ppx_pop_mob_b_asin_title)
+2. Sediment .5 micron [link](https://www.amazon.com/gp/aw/d/B0030ZD7MU?psc=1&ref=ppx_pop_mob_b_asin_title)
 3. NovaH2O Studio Salt Free [link](https://www.homedepot.com/p/NuvoH2O-Studio-Salt-Free-Eco-Friendly-Water-Softener-Conditioner-System-Replacement-Cartridge-SHP-2516/207107280)
 
 
