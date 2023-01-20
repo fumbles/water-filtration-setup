@@ -76,7 +76,8 @@ Chlorine Taste, Odor, Sediment
 2. Sediment .5 micron [link](https://www.amazon.com/gp/aw/d/B0030ZD7MU?psc=1&ref=ppx_pop_mob_b_asin_title)
 3. NovaH2O Studio Salt Free [link](https://www.homedepot.com/p/NuvoH2O-Studio-Salt-Free-Eco-Friendly-Water-Softener-Conditioner-System-Replacement-Cartridge-SHP-2516/207107280)
 
-
+Replacement/extra O-rings:
+[O-ring pack of 3](https://www.uswatersystems.com/o-rings-for-4-5-us-water-filter-housings-3-pack.html?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=5237598790&hsa_cam=17543517270&hsa_grp=144780113024&hsa_ad=605387088665&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA8aOeBhCWARIsANRFrQFXtwcTwr4J6QlEvmOjzv8eeKiPEPYNf-rGeXVk999Bp1EVKvjK2J0aAihLEALw_wcB)
 
 Materials needed:
 
