@@ -60,7 +60,7 @@ Grand Total	$282.48
   
   Specifications
 Capacity:
-22,000 gallons![ph](https://user-images.githubusercontent.com/90968/212727753-54d848d1-86d4-4445-98f3-66e11078102b.png)
+22,000 gallons
 
 Filter Dimensions:
 9-75" L X 4-1/2" Dia.
