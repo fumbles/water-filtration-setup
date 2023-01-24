@@ -57,6 +57,7 @@ Grand Total	$282.48
 **Order of Filters**(right to left)[My water from the street is on the right side of the loop]:
 1. Carbon micron [link](https://www.discountfilters.com/sediment-carbon-water-filters/clearchoice-ccs020/p175727/)
 <details><summary>Filter Specifications</summary>
+  
   Specifications
 Capacity:
 22,000 gallons![ph](https://user-images.githubusercontent.com/90968/212727753-54d848d1-86d4-4445-98f3-66e11078102b.png)
